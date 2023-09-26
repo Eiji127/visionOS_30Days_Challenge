@@ -11,7 +11,7 @@ import RealityKitContent
 
 struct ContentView: View {
 
-    @State private var showImmersiveSpace = false
+    @State var showImmersiveSpace = false
 
     @Environment(\.openImmersiveSpace) var openImmersiveSpace
     @Environment(\.dismissImmersiveSpace) var dismissImmersiveSpace

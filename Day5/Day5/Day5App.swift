@@ -13,9 +13,8 @@ struct Day5App: App {
         WindowGroup {
             ContentView()
         }
-
         ImmersiveSpace(id: "ImmersiveSpace") {
             ImmersiveView()
-        }.immersionStyle(selection: .constant(.full), in: .full)
+        }
     }
 }
