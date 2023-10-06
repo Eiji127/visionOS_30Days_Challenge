@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>バックグラウンドでの位置情報の使用を許可しますか？</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>位置情報の使用を許可しますか？</string>
+	<key>UIApplicationSceneManifest</key>
+	<string></string>
+</dict>
+</plist>
